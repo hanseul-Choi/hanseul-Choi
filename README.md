@@ -11,7 +11,7 @@ check my Toy Project! <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanseul-Choi&repo=Izone_MusicPlayer)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanseul-Choi&repo=BeeAI)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm a Job Seeker and hope to develop Android with Kotlin.
+I'm a Job Seeker and hope to develop Android with Kotlin. Thank you.
 
 <br>
 
