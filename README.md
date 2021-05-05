@@ -8,7 +8,7 @@ most Language? <br>
 
 check my Toy Project! <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanseul-Choi&repo=Izone_MusicPlayer)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanseul-Choi&repo=Izone_MusicPlayer)](https://github.com/hanseul-Choi/Izone_MusicPlayer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanseul-Choi&repo=BeeAI)](https://github.com/hanseul-Choi/BeeAI)
 
 I'm a Job Seeker and hope to develop Android with Kotlin. Thank you.
