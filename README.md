@@ -11,6 +11,9 @@ check my Toy Project! <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanseul-Choi&repo=Izone_MusicPlayer)](https://github.com/hanseul-Choi/Izone_MusicPlayer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanseul-Choi&repo=BeeAI)](https://github.com/hanseul-Choi/BeeAI)
 
+This is my current work project :) <br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanseul-Choi&repo=quark_analysis)](https://github.com/hanseul-Choi/quark_analysis)
+
 I'm a Job Seeker and hope to develop Android with Kotlin. Thank you.
 
 <br>
