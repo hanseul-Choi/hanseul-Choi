@@ -15,7 +15,7 @@ This is my current work project :) <br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanseul-Choi&repo=quark_analysis)](https://github.com/hanseul-Choi/quark_analysis)
 
-I'm a Job Seeker and hope to develop Android with Kotlin. Thank you.
+I'm a "DATE POP" Android Developer. Thank you.
 
 <br>
 
