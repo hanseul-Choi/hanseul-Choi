@@ -13,7 +13,7 @@ check my Toy Project! <br>
 
 This is my current work project :) <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanseul-Choi&repo=quark_analysis)](https://github.com/hanseul-Choi/quark_analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanseul-Choi&repo=ArtGallery)](https://github.com/hanseul-Choi/ArtGallery)
 
 I'm a "DATE POP" Android Developer. Thank you.
 
