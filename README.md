@@ -15,7 +15,7 @@ This is my current work project :) <br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanseul-Choi&repo=ArtGallery)](https://github.com/hanseul-Choi/ArtGallery)
 
-I'm a "DATE POP" Android Developer. Thank you.
+I'm a Junior Android Developer. Thank you.
 
 <br>
 
