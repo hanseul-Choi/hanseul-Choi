@@ -13,7 +13,7 @@ check my Toy Project! <br>
 
 This is my current work project :) <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanseul-Choi&repo=ArtGallery)](https://github.com/hanseul-Choi/ArtGallery)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=plogging-com&repo=Plogging-Android)](https://github.com/plogging-com)
 
 I'm a Junior Android Developer. Thank you.
 
