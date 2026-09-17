@@ -1,6 +1,6 @@
 ## 최한슬
 
-모델을 학습시키는 일보다, 학습된 모델을 실제 서비스에서 안정적으로 돌아가게 만드는 일에 관심이 많습니다. Kubernetes 위에서 GPU를 굴리고, 장애가 나면 고치고, 배포 파이프라인을 다듬는 게 주로 하는 일입니다.
+모델을 학습시키는 일보다, 학습된 모델을 실제 서비스에서 안정적으로 돌아가게 만드는 일에 관심이 많습니다. Kubernetes 위에서 GPU를 굴리고, 장애가 나면 고치고, 배포 파이프라인을 다듬 업무를 합니다.
 
 포트폴리오 → [hanseul-Choi.github.io](https://hanseul-Choi.github.io)
 
@@ -14,9 +14,9 @@
 
 ### 스택
 
-Kubernetes · GPU/MIG · Kafka · ArgoCD · Terraform · AWS(EKS) · FastAPI · Prometheus/Grafana · Docker
+Kubernetes / GPU/MIG / Kafka / ArgoCD / Terraform / AWS(EKS) / FastAPI / Prometheus&Grafana / Docker
 
-Android(Kotlin)도 오래 했습니다.
+Android(Kotlin)는 이전에 진행한 경험이 있습니다.
 
 ### 요즘 만드는 것
 
