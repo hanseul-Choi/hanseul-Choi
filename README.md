@@ -2,8 +2,6 @@
 
 학습된 모델을 실제 서비스에서 불편감 없이 안정적으로 돌아가게 만드는 일에 관심이 많습니다. Kubernetes 위에서 GPU를 올리고, 장애가 나면 고치고, 배포 파이프라인을 다듬는 업무를 합니다.
 
-포트폴리오 → [hanseul-Choi.github.io](https://hanseul-Choi.github.io)
-
 ### 해온 일
 
 - 기업용 AI 플랫폼 GPU/API 운영 — H100에 MIG를 적용해 10여 개 독립 GPU 단위로 분할, GPT·SSE 오류 일 100건 이상 → 1건 미만으로 감소
